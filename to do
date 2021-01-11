@@ -1,0 +1,7 @@
+// create an hamburger class
+
+// another class inherits from the hamburger class aka the base burger
+// the add ons can be written in an enum format and could be use to aid the addon purpose
+// also make a method for delegation 
+
+// other two classes to be implemented in the same way  
